@@ -6,7 +6,7 @@ No Java, todo programa roda em uma classe. O conceito de classe será discutido 
 
 Os termos `public class` são obrigatórios e serão explicados em outro material de **POO – Programação Orientada a Objetos**. 
 
-Para ser executado, todo programa Java precisa ter um método[^2] principal (`main`). Quando a JVM inicia ele procura por esse método para iniciar a execução do programa. Esse é o ponto de entrada na execução de um programa Java. 
+Para ser executado, todo programa Java precisa ter um método[^2] principal (`main`). Quando a JVM inicia, ela procura por esse método para iniciar a execução do programa. Esse é o ponto de entrada na execução de um programa Java. 
 
 ![método main](imagens/metodoMain.jpg)
 
