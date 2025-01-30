@@ -1,6 +1,6 @@
 # Estrutura Básica de Um Programa Java
 
-No Java, todo programa roda em uma classe. O conceito de classes será discutido em outro material relacionado a **POO – Programação Orientada a Objetos**. Um programa Java, pode ser desenvolvido usando um ou mais arquivos de código fonte com a extensão “**.java**”. Em cada arquivo precisa ser declarado uma única classe pública com o mesmo nome do arquivo, considerando inclusive a caixa da fonte (maiúsculas/minúsculas). No exemplo ilustrado na próxima imagem, temos o arquivo `Hello.java` e a classe pública `Hello` declarada nesse arquivo. Essa é a classe principal do programa.
+No Java, todo programa roda em uma classe. O conceito de classe será discutido em outro material relacionado a **POO – Programação Orientada a Objetos**. Um programa Java, pode ser desenvolvido usando um ou mais arquivos de código fonte com a extensão “**.java**”. Em cada arquivo precisa ser declarado uma única classe pública com o mesmo nome do arquivo, considerando inclusive a caixa da fonte (maiúsculas/minúsculas). No exemplo ilustrado na próxima imagem, temos o arquivo `Hello.java` e a classe pública `Hello` declarada nesse arquivo. Essa é a classe principal do programa.
 
 ![arquivo e classe Hello](imagens/arquivo_e_classe_Hello.jpg)
 
