@@ -59,7 +59,7 @@ O JRE funciona acima do sistema operacional, fornecendo recursos adicionais nece
 
 ### JVM – Java Virtual Machine
 
-A JVM – Java Virtual Machine (Máquina Virtual Java) é o programa responsável por carregar e executar as aplicações desenvolvidas e compiladas na linguagem Java. A JVM interpreta os bytecodes [^1] em código executável de máquina. É a JVM que permite que as aplicações escritas em Java, possam ser executadas em qualquer plataforma de hardware e software, desde que tenham uma versão da JVM instalada. Em outras palavras a JVM é um computador abstrato (virtual) que, além de interpretar o bytecode, executa tarefas como: otimizações internas, coleta de lixo, segurança, entre outras. 
+A JVM – Java Virtual Machine (Máquina Virtual Java) é o programa responsável por carregar e executar as aplicações desenvolvidas e compiladas na linguagem Java. A JVM interpreta os bytecodes[^1] em código executável de máquina. É a JVM que permite que as aplicações escritas em Java, possam ser executadas em qualquer plataforma de hardware e software, desde que tenham uma versão da JVM instalada. Em outras palavras a JVM é um computador abstrato (virtual) que, além de interpretar o bytecode, executa tarefas como: otimizações internas, coleta de lixo, segurança, entre outras. 
 
 ### Estrutura
 
