@@ -1,4 +1,4 @@
-# Criar Um Projeto Java no Eclipse
+# Criar Um Projeto e Uma Classe Java no Eclipse
 
 Nesse tópico, você aprenderá os princípios básicos para criar um projeto Java no Eclipse no ambiente Windows. Tenha em mente, que alguns detalhes serão omitidos, para simplificar o processo nesse momento. Quando se fizerem necessários (se for o caso) abordaremos novos detalhes. Como dito anteriormente, usaremos o Eclipse no ambiente Windows, mas os conceitos aqui discutidos, não diferem muito em outros IDE’s nem em outros ambientes. 
 
