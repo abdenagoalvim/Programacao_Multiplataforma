@@ -43,9 +43,9 @@ System.out.println(<arg>);
 ### Exemplos
 
 ```java
-System.out.print(“Olá Mundo!!!”);
-System.out.print(725);
-System.out.print(13.21);
+System.out.println(“Olá Mundo!!!”);
+System.out.println(725);
+System.out.println(13.21);
 ```
 
 Compare as saídas desses exemplos com as saídas dos exemplos do método “**print()**” para clarear a diferença entre os dois métodos.
