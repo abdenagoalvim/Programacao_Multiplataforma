@@ -99,7 +99,8 @@ Veja algumas das conversões que podem ser usadas:
 |%|Caractere “%”|
 |n|Separador de linha|
 
-Para mais especificadores de formato, consulte a classe “[**Formatter**](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Formatter.html#syntax)” na documentação do Java.
+Para mais especificadores de formato, consulte a classe 
+“<a href="https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Formatter.html#syntax" target="_blank">[**Formatter**]</a>” na documentação do Java.
 
 ### Exemplos
 
