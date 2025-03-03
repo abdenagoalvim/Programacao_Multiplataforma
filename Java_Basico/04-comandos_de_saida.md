@@ -108,7 +108,7 @@ Para mais especificadores de formato, consulte a classe
 ```java
 System.out.printf("O resultado é %d%n", 21);
 System.out.printf("O resultado é %.2f\n", 5.42513);
-System.out.printf("Olá, %s, seja bem-vindo!!!", "José");
+System.out.printf("Olá, %s, seja bem-vindo!!!\n", "José");
 System.out.printf("%-20s|%10.2f\n","Caneta", 2.1);
 ```
 
