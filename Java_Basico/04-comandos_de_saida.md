@@ -78,7 +78,7 @@ A string de formato é uma cadeia de caracteres que pode conter texto fixo e um 
 
 onde:
 
-**arg_indice**: (opcional) é um inteiro que indica a posição do argumento na posição do argumento na lista de argumentos. O primeiro argumento é referenciado por “**1$**”, o segundo por “**2$**” etc. 
+**arg_indice**: (opcional) é um inteiro que indica a posição do argumento na lista de argumentos. O primeiro argumento é referenciado por “**1$**”, o segundo por “**2$**” etc. 
 
 **flags**: (opcional) são um conjunto de caracteres que modificam o formato da saída. O conjunto de flags válidos depende da conversão. 
 
