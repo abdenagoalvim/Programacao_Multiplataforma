@@ -27,7 +27,7 @@ Onde \<**arg**> deverá ser substituído pelo dado que se deseja imprimir na sa�
 ```java
 System.out.print(“Olá Mundo!!!”);
 System.out.print(725);
-Systen.out.print(13.21);
+System.out.print(13.21);
 ```
 
 ## println()
