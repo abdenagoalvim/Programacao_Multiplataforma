@@ -25,7 +25,7 @@ Onde \<**arg**> deverá ser substituído pelo dado que se deseja imprimir na sa�
 ### Exemplos
 
 ```java
-System.out.print(“Olá Mundo!!!”);
+System.out.print("Olá Mundo!!!");
 System.out.print(725);
 System.out.print(13.21);
 ```
@@ -43,7 +43,7 @@ System.out.println(<arg>);
 ### Exemplos
 
 ```java
-System.out.println(“Olá Mundo!!!”);
+System.out.println("Olá Mundo!!!");
 System.out.println(725);
 System.out.println(13.21);
 ```
@@ -104,10 +104,10 @@ Para mais especificadores de formato, consulte a classe “[**Formatter**](https
 ### Exemplos
 
 ```java
-System.out.printf(“O resultado é %d%n”, 21);
-System.out.printf(“O resultado é %.2f\n”, 5.42513);
-System.out.printf(“Olá, %s, seja bem-vindo!!!”, “José”);
-System.out.printf(“%-20s|%10.2f\n”,”Caneta”, 2.1);
+System.out.printf("O resultado é %d%n", 21);
+System.out.printf("O resultado é %.2f\n", 5.42513);
+System.out.printf("Olá, %s, seja bem-vindo!!!", "José");
+System.out.printf("%-20s|%10.2f\n","Caneta", 2.1);
 ```
 
 Os exemplos acima estão trabalhando com valores literais como argumentos a serem usados na string de formato do método “**printf()**”. Nos próximos tópicos você aprenderá a usar variáveis e poderá usá-las como argumentos também.
