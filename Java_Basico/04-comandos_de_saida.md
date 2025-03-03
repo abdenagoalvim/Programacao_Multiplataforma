@@ -116,9 +116,9 @@ Os exemplos acima estão trabalhando com valores literais como argumentos a sere
 
 No último exemplo estão sendo usados dois especificadores com mais detalhes:
 
-**%-20s**: resultara em uma string de 20 caracteres, no mínimo, com o texto passado como argumento alinhado à esquerda. Quando é definido um tamanho para a saída, normalmente o alinhamento, do argumento passado, ocorre do lado direito. Nesse caso está sendo usado a flag “-“ indicando o alinhamento à esquerda.
+**%-20s**: resultará em uma string de 20 caracteres, no mínimo, com o texto passado como argumento alinhado à esquerda. Quando é definido um tamanho para a saída, normalmente o alinhamento, do argumento passado, ocorre do lado direito. Nesse caso está sendo usado a flag “-“ indicando o alinhamento à esquerda.
 
-**%10.2f**: resultara em uma string de 10 caracteres no mínimo, com um número de real (ponto flutuante) com duas casas decimais alinhado à direita.
+**%10.2f**: resultará em uma string de 10 caracteres no mínimo, com um número de real (ponto flutuante) com duas casas decimais alinhado à direita.
 
 Veja os resultados gerados pelos exemplos acima:
 
