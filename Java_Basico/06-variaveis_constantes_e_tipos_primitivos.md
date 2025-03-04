@@ -54,7 +54,7 @@ No Java uma constante é definida através da palavra reservada “**final**” 
 ### Sintaxe
 
 ```java
-final <tipo> <nome> = <valor inicial>;
+final <tipo> <NOME> = <valor inicial>;
 ```
 
 ### Exemplo
