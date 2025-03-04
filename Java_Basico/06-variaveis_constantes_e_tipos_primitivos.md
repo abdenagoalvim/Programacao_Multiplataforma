@@ -73,9 +73,9 @@ Os tipos primitivos em Java são tipos de dados mais básicos, que representam v
 
 O Java possui 8 tipos primitivos:
 
-- **char**: armazena um caractere unicode, ocupando 2 bytes (16 bits) na memória. Pode armazenar valores entre \u0000 a \uFFFF.
+- **char**: armazena um caractere unicode, ocupando 2 bytes (16 bits) na memória. Pode armazenar valores entre **\u0000** a **\uFFFF**.
 
-- **boolean**: armazena um valor lógico (booleano) true ou false.
+- **boolean**: armazena um valor lógico (booleano) **true** ou **false**.
 
 - **byte**: armazena um número inteiro com sinal, ocupando 1 byte (8 bits) na memória. Pode armazenar valores entre **-128** a **+127**.
 
