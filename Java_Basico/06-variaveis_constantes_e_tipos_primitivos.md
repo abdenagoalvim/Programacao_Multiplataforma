@@ -87,7 +87,7 @@ O Java possui 8 tipos primitivos:
 
 - **float**: armazena um número real (ponto flutuante) com sinal, ocupando 4 bytes (32 bits) na memória. Pode armazenar valores entre **1,4E-37** a **3,4E+38**. Por padrão, no Java, os números reais (ponto flutuante) são interpretados como do tipo “**double**”, para mostrar ao compilador que está usando um valor do tipo “**float**” inclua a letra “**F**” no final do número literal: `float altura = 1.75F`;
 
-- **double**: armazena um número real (ponto flutuante) com sinal, ocupando 8 bytes (64 bits) na memória. Pode armazenar valores entre **4,9e-324** a **1,7e+308**.
+- **double**: armazena um número real (ponto flutuante) com sinal, ocupando 8 bytes (64 bits) na memória. Pode armazenar valores entre **4,9E-324** a **1,7E+308**.
 
 A faixa de valores dos tipos inteiros são calculadas elevando o número 2 (base binária) pela quantidade de bits do tipo menos 1 (um bit é usado para definir o sinal do número: positivo ou negativo). O lado positivo será esse valor menos um, pois o número zero é interpretado como positivo no computador. Assim:
 
