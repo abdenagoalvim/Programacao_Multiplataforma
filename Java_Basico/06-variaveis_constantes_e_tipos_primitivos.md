@@ -33,7 +33,7 @@ Toda variável no Java, deve ser declarada antes de ser usada. Para declarar uma
 <tipo> <nome> = <valor inicial>;
 ```
 
-A atribuição de um valor inicial, `= \<valor inicial\>`, é opcional e não precisa, necessariamente, ser feita junto com a declaração.
+A atribuição de um valor inicial, `= <valor inicial>`, é opcional e não precisa, necessariamente, ser feita junto com a declaração.
 
 ### Exemplo
 
