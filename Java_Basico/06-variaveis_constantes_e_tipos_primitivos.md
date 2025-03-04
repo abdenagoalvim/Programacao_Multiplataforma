@@ -43,7 +43,7 @@ int idade = 25;
 altura = 1.85;
 ```
 
-Repare que a variável `altura` foi, num primeiro momento, declarada e depois iniciada por outro comando. Veja também que os números com casas decimais são separados por um ponto “**.**” e não por vírgula “**,**” como estamos acostumados. Isso ocorre, pois, as linguagens de programação, como o Java, são escritas baseadas na língua inglesa, onde o separador decimal é o ponto “**.**”.
+Repare que a variável `altura` foi, num primeiro momento, declarada e depois inicializada por outro comando. Veja também que os números com casas decimais são separados por um ponto “**.**” e não por vírgula “**,**” como estamos acostumados. Isso ocorre, pois, as linguagens de programação, como o Java, são escritas baseadas na língua inglesa, onde o separador decimal é o ponto “**.**”.
 
 ## Constantes
 
