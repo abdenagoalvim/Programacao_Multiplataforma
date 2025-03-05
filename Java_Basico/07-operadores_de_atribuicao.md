@@ -41,7 +41,7 @@ Os operadores de atribuição compostos combinam uma operação aritmética com 
 
 ```java
 int x = 5;
-x += 10     // x receberá 15 (5 +10)
+x += 10     // x receberá 15 (5 + 10)
 x -= 3 	    // x receberá 12 (15 – 3)
 x *= 2	    // x receberá 24 (12 * 2)
 x /= 3 	    // x receberá 8 (24 / 3)
