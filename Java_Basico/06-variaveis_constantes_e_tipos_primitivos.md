@@ -33,7 +33,7 @@ Toda variável no Java, deve ser declarada antes de ser usada. Para declarar uma
 <tipo> <nome> = <valor inicial>;
 ```
 
-A atribuição de um valor inicial, `= \<valor inicial\>`, é opcional e não precisa, necessariamente, ser feita junto com a declaração.
+A atribuição de um valor inicial, `= <valor inicial>`, é opcional e não precisa, necessariamente, ser feita junto com a declaração.
 
 ### Exemplo
 
@@ -43,7 +43,7 @@ int idade = 25;
 altura = 1.85;
 ```
 
-Repare que a variável `altura` foi, num primeiro momento, declarada e depois iniciada por outro comando. Veja também que os números com casas decimais são separados por um ponto “**.**” e não por vírgula “**,**” como estamos acostumados. Isso ocorre, pois, as linguagens de programação, como o Java, são escritas baseadas na língua inglesa, onde o separador decimal é o ponto “**.**”.
+Repare que a variável `altura` foi, num primeiro momento, declarada e depois inicializada por outro comando. Veja também que os números com casas decimais são separados por um ponto “**.**” e não por vírgula “**,**” como estamos acostumados. Isso ocorre, pois, as linguagens de programação, como o Java, são escritas baseadas na língua inglesa, onde o separador decimal é o ponto “**.**”.
 
 ## Constantes
 
@@ -54,7 +54,7 @@ No Java uma constante é definida através da palavra reservada “**final**” 
 ### Sintaxe
 
 ```java
-final <tipo> <nome> = <valor inicial>;
+final <tipo> <NOME> = <valor inicial>;
 ```
 
 ### Exemplo
@@ -73,9 +73,9 @@ Os tipos primitivos em Java são tipos de dados mais básicos, que representam v
 
 O Java possui 8 tipos primitivos:
 
-- **char**: armazena um caractere unicode, ocupando 2 bytes (16 bits) na memória. Pode armazenar valores entre \u0000 a \uFFFF.
+- **char**: armazena um caractere unicode, ocupando 2 bytes (16 bits) na memória. Pode armazenar valores entre **\u0000** a **\uFFFF**.
 
-- **boolean**: armazena um valor lógico (booleano) true ou false.
+- **boolean**: armazena um valor lógico (booleano) **true** ou **false**.
 
 - **byte**: armazena um número inteiro com sinal, ocupando 1 byte (8 bits) na memória. Pode armazenar valores entre **-128** a **+127**.
 
@@ -87,7 +87,7 @@ O Java possui 8 tipos primitivos:
 
 - **float**: armazena um número real (ponto flutuante) com sinal, ocupando 4 bytes (32 bits) na memória. Pode armazenar valores entre **1,4E-37** a **3,4E+38**. Por padrão, no Java, os números reais (ponto flutuante) são interpretados como do tipo “**double**”, para mostrar ao compilador que está usando um valor do tipo “**float**” inclua a letra “**F**” no final do número literal: `float altura = 1.75F`;
 
-- **double**: armazena um número real (ponto flutuante) com sinal, ocupando 8 bytes (64 bits) na memória. Pode armazenar valores entre **4,9e-324** a **1,7e+308**.
+- **double**: armazena um número real (ponto flutuante) com sinal, ocupando 8 bytes (64 bits) na memória. Pode armazenar valores entre **4,9E-324** a **1,7E+308**.
 
 A faixa de valores dos tipos inteiros são calculadas elevando o número 2 (base binária) pela quantidade de bits do tipo menos 1 (um bit é usado para definir o sinal do número: positivo ou negativo). O lado positivo será esse valor menos um, pois o número zero é interpretado como positivo no computador. Assim:
 
