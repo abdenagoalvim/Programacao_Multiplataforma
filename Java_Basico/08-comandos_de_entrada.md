@@ -51,7 +51,7 @@ Para usar a classe “**Scanner**” e ler dados de entrada a partir do teclado,
 4.	Fechar o objeto Scanner
 
     ```java
-    Sc.close(); 
+    sc.close(); 
     ```
 
 ## Exemplo
