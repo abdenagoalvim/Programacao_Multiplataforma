@@ -158,3 +158,31 @@ String sit2 = (nota < 40) ? "reprovado" : (nota < 60) ? "recuperação" : "aprov
 ```
 
 Repare que a variável “**sit2**” poderá receber um de três valores, pois foram usados dois operadores ternários aninhados. Se a primeira expressão booleana (**nota < 40**) for avaliada como verdadeira o valor “**reprovado**” será retornado para a variável “**sit2**” mas, se for avaliada como falsa, o segundo operador ternário será executado avaliando a expressão (**nota < 60**) e, se essa segunda expressão booleana for verdadeira a variável “**sit2**” recebe o valor “**recuperação**” e se for falsa recebe o valor “**aprovado**”.
+
+## Precedência de operadores
+
+Há situações em que você precisará juntar operadores diferentes em uma mesma expressão. Nesses casos, cada operação possui uma ordem, predeterminada, para ser executada. Essa ordem é denominada como precedência. 
+
+Segue a lista de precedência dos operadores em Java, da mais alta (executado primeiro) até a mais baixa precedência.
+
+- **( )** – as expressões entre parênteses serão executadas primeiro.
+
+- **+ - ++ --** – operadores unários positivo e negativo e operadores de incremento e decremento.
+
+- **\* / %** – multiplicação, divisão e módulo (resto da divisão).
+
+- **+ -** – adição e subtração.
+
+- **< <= > >=** – menor que, menor ou igual, maior que, maior ou igual.
+
+- **== !=** – igual, diferente.
+
+- **&&** – operador lógico **E**.
+
+- **||** – operador lógico **OU**.
+
+- **? :** – operador ternário.
+
+- **= \<opArit>=** – atribuição e atribuição composta.
+
+Quando ocorrer, na mesma expressão, mais de um operador com a mesma precedência, eles serão avaliados da esquerda para a direita.
