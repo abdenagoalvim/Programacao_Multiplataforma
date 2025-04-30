@@ -19,7 +19,7 @@ Para usar a classe “**Scanner**” e ler dados de entrada a partir do teclado,
 1. Importar a classe “**Scanner**”
 
     ```java
-    Import java.util.Scanner;
+    import java.util.Scanner;
     ```
 
     A importação deve ser feita no início do arquivo “**.java**” que usará a classe.
