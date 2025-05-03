@@ -32,7 +32,7 @@ if(idade >= 18) {
 
 As estruturas condicionais compostas permitem definir um bloco de código a ser executado caso uma determinada condição seja satisfeita (verdadeira) e um outro bloco de código que será executado caso a condição não seja satisfeita (falsa). Veja o fluxograma dessa estrutura a seguir.
 
-<img src="imagens/estruturasCondicionaisCompostas.jpg" alt="estruturas condicionais compostas" width="400">
+<img src="imagens/estruturasCondicionaisCompostas.jpg" alt="estruturas condicionais compostas" width="450">
 
 A expressão booleana “**expBool**” será avaliada e caso seja satisfeita (verdadeira) o bloco de código “**blocoCod01**” será executado. Caso a expressão boolena “**expBool**” não seja satisfeita (falsa) o bloco de código “**blocoCod02**” será executado.
 
@@ -60,7 +60,7 @@ if(idade >= 18) {
 
 As estruturas condicionais encadeadas (aninhadas) avaliam mais de uma expressão booleana. Caso a primeira expressão booleana seja falsa, a segunda expressão booleana será avaliada, e assim por diante até que não tenha mais expressões booleanas a serem avaliadas. Ainda pode conter, assim como na estrutura condicional composta, um bloco de código que será executado caso nenhuma das expressões booleanas tenham sido avaliadas como verdadeiras. Veja o fluxograma da estrutura condicional encadeada na próxima figura.
 
-<img src="imagens/estruturasCondicionaisEncadeada.jpg" alt="estruturas condicionais encadeadas (aninhadas)" width="400">
+<img src="imagens/estruturasCondicionaisEncadeada.jpg" alt="estruturas condicionais encadeadas (aninhadas)" width="500">
 
 ### Sintaxe
 
