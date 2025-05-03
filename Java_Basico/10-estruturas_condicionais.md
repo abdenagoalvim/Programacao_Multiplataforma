@@ -6,7 +6,7 @@ As Estruturas de Decisão ou Estruturas Condicionais, são comandos que permitem
 
 As estruturas condicionais simples são estruturas de controle que permitem ao programador definir um bloco de comandos que só será executado se uma determinada condição for satisfeita (verdadeira). Veja essa estrutura no fluxograma a seguir.
 
-<img src="imagens/estruturasCondicionaisSimples.jpg" alt="estruturas condicionais simples">
+<img src="imagens/estruturasCondicionaisSimples.jpg" alt="estruturas condicionais simples" width="250">
 
 O bloco de código “**blocoCod**” só será executado se a expressão booleana “**expBool**” for verdadeira. Caso a expressão booleana “**expBool**” for falsa, o programa segue o fluxo normal do código sem executar o bloco de código “**blocoCod**”.
 
