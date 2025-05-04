@@ -39,7 +39,7 @@ sc.close();
 
 ## Laço DO-WHILE
 
-Assim como o laço “**while**”, esse repete um bloco de código enquanto uma condição for verdadeira. A diferença é que essa condição é posicionada no final do laço. Dessa forma o bloco de código do laço será executado pelo menos uma vez, mesmo que a condição seja avaliada como falsa no início da sua execução.
+Assim como o laço “**while**”, esse laço repete um bloco de código enquanto uma condição for verdadeira. A diferença é que essa condição é posicionada no final do laço. Dessa forma o bloco de código do laço será executado pelo menos uma vez, mesmo que a condição seja avaliada como falsa no início.
 
 ### Sintaxe
 
