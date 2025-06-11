@@ -1,6 +1,6 @@
 # Vetores / Matrizes
 
-Vetor/matriz é uma estrutura de dados que armazena uma coleção valores de um mesmo tipo, são armazenados de forma contíguas na memória e podem ser acessados por um índice numérico, normalmente iniciado por zero “**0**”. Os colchetes **[]** são usados para especificar o índice desejado.
+Vetor/matriz é uma estrutura de dados que armazena uma coleção de valores de um mesmo tipo, são armazenados de forma contíguas na memória e podem ser acessados por um índice numérico, normalmente iniciado por zero “**0**”. Os colchetes **[]** são usados para especificar o índice desejado.
 
 Cada posição de um **array** é acessada através do nome do **array** acompanhado do índice da posição entre colchetes: `nomeArray[ind]`.
 
@@ -20,7 +20,7 @@ tipo nomeArray[];
 ```
 As duas formas são válidas, mas **a primeira é a mais recomendada**. 
 
-Depois de declarar o **array**, precisamos criar ele na memória usando a palavra-chave new seguida do tipo de dados do **array** e do seu tamanho (quantos elementos ele terá) entre colchetes:
+Depois de declarar o **array**, precisamos criar ele na memória usando a palavra-chave `new` seguida do tipo de dados do **array** e do seu tamanho (quantos elementos ele terá) entre colchetes:
 
 ```java
 String[] alunos;
@@ -76,10 +76,10 @@ Assim como no vetor, você também pode declarar e preencher uma matriz com valo
 
 ```java
 double[][] notas = {{7.5, 5.8, 6.5},
-					{9.5, 9.0, 9.8},
-					{7.2, 8.9, 7.5},
-					{5.1, 4.3, 6.5},
-					{6.5, 7.5, 9.0}};
+		    {9.5, 9.0, 9.8},
+		    {7.2, 8.9, 7.5},
+		    {5.1, 4.3, 6.5},
+		    {6.5, 7.5, 9.0}};
 ```
 
 Um **array** em Java pode ter múltiplas dimensões (uma (vetor), duas (matriz), três, quatro, cinco...). Teoricamente, não existe um limite para o número de dimensões de um **array** no Java. Entretanto, criar **arrays** com muitas dimensões (acima de três) torna o código difícil de entender, dificultando a compreensão e leitura do código.
